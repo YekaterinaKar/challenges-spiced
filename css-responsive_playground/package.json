@@ -1,7 +1,7 @@
 {
-  "name": "html-and-the-web_div-salad",
+  "name": "css-responsive_playground",
   "version": "0.0.0-unreleased",
-  "description": "Static HTML template with CSS",
+  "description": "",
   "main": "index.html",
   "nf": {
     "template": "html-css-static"
