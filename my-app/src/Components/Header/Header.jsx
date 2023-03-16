@@ -1,3 +1,3 @@
-export function Header() {
-    return <h1>Journal</h1>;
+export function Header({ text }) {
+    return <h1>{text}</h1>;
 }
