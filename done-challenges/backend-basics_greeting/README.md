@@ -24,7 +24,7 @@ In the [`index.js`](./index.js) file:
 
 - Run `npm run dev` to run the `index.js` file using `node`.
 - Switch to your browser and open `localhost:8000` (the port number depends on the number you've passed to the `.listen()` method above).
-- You should now see "Hello, [your name]!".
+- You should now see "Hello, [name]!".
 
 ## Notes
 
